@@ -12,10 +12,17 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
+    "deploy:branch": "/bin/sh -c 'if [ \"$TRAVIS_BRANCH\" = \"master\" ]; then yarn deploy:live; elif [ \"$TRAVIS_BRANCH\" = \"dev\" ]; then yarn deploy:dev; fi'",
+    "deploy:live": "yarn build && surge ./.vuepress/dist osakakickback.surge.sh",
+    "deploy:pr": "yarn build && ./deploy.sh",
+    "deploy:new": "/bin/sh -c 'if [ \"$TRAVIS_PULL_REQUEST\" = \"false\" ]; then yarn deploy:branch; else yarn deploy:pr; fi'",
     "deploy": "yarn build && ./deploy.sh"
   },
   "devDependencies": {
     "debounce": "^1.2.0",
     "vuepress": "^0.12.0"
+  },
+  "dependencies": {
+    "surge": "^0.21.3"
   }
 }
