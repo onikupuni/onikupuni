@@ -12,7 +12,7 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
-    "deploy:pr": "yarn build && ./deploy.sh"
+    "deploy": "yarn build && ./deploy.sh"
   },
   "devDependencies": {
     "debounce": "^1.2.0",
