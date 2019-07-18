@@ -5,7 +5,7 @@ actionLink: /events/
 
 description: Blockchain Week initiatives are happening all over the world whenever 
              there is a large gathering of blockchain and cryptocurrencies enthusiasts 
-             around. The Osaka DevCon5 side events page is no different, it's just a bit longer. 
+             around. The Osaka blockchain event calendar is no different, it's just a bit longer.
              This is an voluntary initiative which was formed around the Ethereum Devcon 5
              and which will provide an overview and support for all the blockchain 
              technology related events happening in Osaka.
@@ -36,12 +36,12 @@ footer:
 
 <hr /><br />
 
-Hello Blockchain Week initiatives are happening all over the world whenever
+Blockchain Week initiatives are happening all over the world whenever
 there is a large gathering of blockchain and cryptocurrencies enthusiasts 
 around. The Osaka blockchain event calendar is no different, it's just a bit longer.
 This is an voluntary initiative which was formed around the Ethereum Devcon 5 
 and which will provide an overview and support for all the blockchain 
 technology related events happening in Osaka between Oct 8. and Oct 11. 2018. 
 
-Feel free to reach out [EMAIL_ADDRESS] if you have any questions. 
+Feel free to reach out hello@kickback.events if you have any questions.
 <br />
