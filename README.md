@@ -13,7 +13,7 @@ description: Blockchain Week initiatives are happening all over the world whenev
 tagline: Around DevCon5 (8th - 11th October 2019)
 
 features:
-- title: The Deck
+- title: 111The Deck
   details: Hardware tech focus co-working space
 
 - title: Singularity Hive
