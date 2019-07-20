@@ -42,6 +42,7 @@ around. The Osaka blockchain event calendar is no different, it's just a bit lon
 This is an voluntary initiative which was formed around the Ethereum Devcon 5 
 and which will provide an overview and support for all the blockchain 
 technology related events happening in Osaka between Oct 8. and Oct 11. 2018. 
+hello
 
 Feel free to reach out hello@kickback.events if you have any questions.
 <br />
