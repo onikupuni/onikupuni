@@ -73,7 +73,7 @@ function resolveOpenGroupIndex (route, items) {
 @import './styles/config.styl'
 
 .sidebar
-  background-color: #44000d !important
+  background-color: #010059 !important
   border: none !important
   ul
     padding 0

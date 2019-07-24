@@ -71,7 +71,7 @@ const replaceLink = function (text) {
     text-decoration none !important
     transition all 0.2s ease-out
     border-bottom 1px solid transparent
-    text-shadow 2px 2px 2px #44000d
+    text-shadow 2px 2px 2px #010059
     &:hover
       border-bottom 1px solid
 </style>

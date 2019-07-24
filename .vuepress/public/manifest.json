@@ -1,6 +1,6 @@
 {
-  "name": "Osaka blockchain event calendar",
-  "short_name": "Osaka blockchain event calendar",
+  "name": "Osaka blockchain calendar",
+  "short_name": "Osaka blockchain calendar",
   "icons": [
     {
       "src": "/logo-192x192.png",
@@ -15,6 +15,6 @@
   ],
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#44000d",
-  "theme_color": "#f9d276"
+  "background_color": "#010059",
+  "theme_color": "#fcf594"
 }

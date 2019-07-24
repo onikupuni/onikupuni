@@ -105,7 +105,7 @@ export default {
   a
     line-height 1.8rem
     color #fff
-    border-bottom: 1px solid #44000d
+    border-bottom: 1px solid #010059
     transition: border-bottom .2s ease-in-out
     &:hover, &.router-link-active
       color $accentColor

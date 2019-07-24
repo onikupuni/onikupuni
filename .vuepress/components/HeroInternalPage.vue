@@ -32,7 +32,7 @@ export default {
   width 100%
   min-height $internalHeroHeight
   position relative
-  background url("~/main-bg.jpg")
+  background url("~/main-bg.png")
   // background-attachment fixed
   background-size cover
   background-position center 40%
@@ -51,7 +51,7 @@ export default {
     left: 0
     width: 100%
     height: 100%
-    background-color: rgba(#44000d,.4)
+    background-color: rgba(#010059,.4)
   h1
     position: relative
     z-index: 2
@@ -65,7 +65,7 @@ export default {
     margin -2em 0 0
     font-size 18px
     color #fff
-    background-color #44000d
+    background-color #010059
     padding 0.8rem 2rem
     border-radius 5px
     transition all .2s ease-in-out

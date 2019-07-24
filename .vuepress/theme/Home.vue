@@ -16,7 +16,7 @@
     </div>
     <div class="home_about">
       <div class="home-wrap">
-        <h2 class="home_about-title"><b>About</b> Osaka blockchain event calendar</h2>
+        <h2 class="home_about-title"><b>About</b> Osaka blockchain calendar</h2>
         <Content custom/>
       </div>
     </div>
@@ -24,7 +24,7 @@
       <div class="home-wrap">
         <div class="features" v-if="data.features && data.features.length">
           <div class="title">
-            <h2><b>Venues</b> of Osaka blockchain event calendar </h2>
+            <h2><b>Venues</b> of Osaka blockchain calendar </h2>
           </div>
           <div class="feature" v-for="feature in data.features">
             <h2>{{ feature.title }}</h2>
@@ -77,7 +77,7 @@ export default {
     max-width 960px
     margin 0px auto
   &_main
-    background url('~/main-bg.jpg')
+    background url('~/main-bg.png')
     // background-attachment fixed
     background-size cover
     background-position center top
@@ -85,7 +85,7 @@ export default {
     color #fff
     padding 200px 0
   &_about
-    background #44000d
+    background #010059
     color #fff
     hr, br
       display none
@@ -114,7 +114,7 @@ export default {
       left: 0
       width: 100%
       height: 100%
-      background-color: rgba(#44000d,.4)
+      background-color: rgba(#010059,.4)
     .home-wrap
       position: relative
       z-index: 2
@@ -133,14 +133,14 @@ export default {
     h1
       margin-top 0
       font-size 48px
-      background: #44000d;
+      background: #010059;
       padding: 10px 20px;
       border: 2px dashed;
       transform: rotate(2deg);
       border-radius: 5px;
     .description
       margin 15px auto
-      background: #44000d;
+      background: #010059;
       padding: 10px 20px;
       border: 2px dashed;
       transform: rotate(-4deg);
@@ -156,7 +156,7 @@ export default {
       display inline-block
       font-size 18px
       color #fff
-      background-color #44000d
+      background-color #010059
       padding 0.8rem 2rem
       border-radius 29px
       transition border .2s ease-in-out
@@ -197,7 +197,7 @@ export default {
       margin 15px 0
   .footer
     padding 0.9rem 3.9rem
-    background #44000d
+    background #010059
     text-align center
     color lighten($textColor, 25%)
     display flex
@@ -216,7 +216,7 @@ export default {
       padding 0.8rem 2rem
       border-radius 29px
       transition border .2s ease-in-out
-      border: 1px solid #44000d
+      border: 1px solid #010059
       box-sizing border-box
       font-size 18px
       &:hover
