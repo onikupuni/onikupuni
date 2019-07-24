@@ -5,7 +5,7 @@ actionLink: /events/
 
 description: Blockchain Week initiatives are happening all over the world whenever 
              there is a large gathering of blockchain and cryptocurrencies enthusiasts 
-             around. The Osaka blockchain event calendar is no different, it's just a bit longer.
+             around. The Osaka Blockchain  week is no different, it's just a bit longer.
              This is an voluntary initiative which was formed around the Ethereum Devcon 5
              and which will provide an overview and support for all the blockchain 
              technology related events happening in Osaka.
@@ -19,7 +19,7 @@ features:
 - title: Singularity Hive
   details: The one and only Crypto co-working space in Osaka
 
-  
+
   
   
 footer:
@@ -38,11 +38,11 @@ footer:
 
 Blockchain Week initiatives are happening all over the world whenever
 there is a large gathering of blockchain and cryptocurrencies enthusiasts 
-around. The Osaka blockchain event calendar is no different, it's just a bit longer.
+around. The Osaka Blockchain  week is no different, it's just a bit longer.
 This is an voluntary initiative which was formed around the Ethereum Devcon 5 
 and which will provide an overview and support for all the blockchain 
 technology related events happening in Osaka between Oct 8. and Oct 11. 2018. 
 hello
 
-Feel free to reach out hello@kickback.events if you have any questions.
+Feel free to reach out via our [Telegram channel](https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA) if you have any questions.
 <br />

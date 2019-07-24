@@ -16,7 +16,7 @@
     </div>
     <div class="home_about">
       <div class="home-wrap">
-        <h2 class="home_about-title"><b>About</b> Osaka blockchain event calendar</h2>
+        <h2 class="home_about-title"><b>About</b> Osaka Blockchain  week</h2>
         <Content custom/>
       </div>
     </div>
@@ -24,12 +24,15 @@
       <div class="home-wrap">
         <div class="features" v-if="data.features && data.features.length">
           <div class="title">
-            <h2><b>Venues</b> of Osaka blockchain event calendar </h2>
+            <h2><b>Venues</b> of Osaka Blockchain  week </h2>
           </div>
           <div class="feature" v-for="feature in data.features">
             <h2>{{ feature.title }}</h2>
             <p>{{ feature.details }}</p>
           </div>
+        </div>
+        <div class="home-wrap">
+          We are currently reaching out to other co-working places and startup companies to join our initiatives. The more venues to be added soon. Please not that some of the venues (especially non commercial facilities) will be kept private to respect their privacy.
         </div>
       </div>
     </div>

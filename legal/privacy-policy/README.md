@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-The EVENT_URL website provides information about Osaka blockchain event calendar
+The EVENT_URL website provides information about Osaka Blockchain  week
 Week, a series of independent events organized by individuals, in order to
 promote blockchain technology.
 
