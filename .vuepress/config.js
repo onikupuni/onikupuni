@@ -21,11 +21,7 @@ module.exports = {
       },
       {
         text: 'Submit an Event',
-        link: 'https://goo.gl/forms/zYvjmpEsfeM1KpRt2'
-      },
-      {
-        text: 'Use Kickback',
-        link: 'https://medium.com/noblocknoparty/how-blockparty-can-decrease-no-shows-at-your-next-event-5e5895f1a23f'
+        link: 'https://forms.gle/WzTbzNfPt19PP6768'
       }
 
     ],
