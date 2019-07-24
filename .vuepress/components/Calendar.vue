@@ -240,11 +240,11 @@ const resetHeadersPosition = function () {
 <style scoped lang="stylus">
 @import '../theme/styles/config.styl'
 
-$headerColor = #191970
+$headerColor = #44000d
 $borderColor = #e1e1f8
 $thickBorder = 2px solid $borderColor
 $thinBorder = 1px solid $borderColor
-$backgroundColor = #191970
+$backgroundColor = #44000d
 $lightColor = lighten($headerColor, 90%)
 $headersTransition = all 0.25s ease-out
 
