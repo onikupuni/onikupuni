@@ -2,18 +2,7 @@
 ####################
 ### INSTRUCTIONS ###
 ####################
-# This file is a template to create new events. In order to use it, duplicate
-# the whole folder (/template) as a new folder (I.E. /my-event-name) inside of
-# the /events folder, using for the folder name _only_:
-# - lowercase letters
-# - hyphens/dashes (-) instead of spaces
-# - alphanumeric characters ('a' to 'z', '0' to '9')
-# and edit the README.md file inside that new folder just created.
-#
-# The name of the folder will be used on the URL. Example:
-# https://blockchainweek.berlin/my-event-name
-#
-# _Don't_ rename the new file (README.md), only edit its content.
+# This file is a template to create new events.
 # _Don't_ remove any text before the colons at the beginning of each line,
 # only edit what is after the colon. Example:
 # Don't remove the word nor colon on 'description:'
@@ -28,12 +17,12 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Rockaway Blockchain Night
+title: "ENS Workshop"
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Cocktails and inspirational people at a place where the past meets the future.
+description: 
 
 
 #####################
@@ -41,7 +30,7 @@ description: Cocktails and inspirational people at a place where the past meets 
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: "Rockaway Blockchain Night: Afterparty"
+name: "ENS Workshop"
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -49,45 +38,46 @@ name: "Rockaway Blockchain Night: Afterparty"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
+  -  "Workshop to discuss the current state and future of ENS with the ENS team and others interested in the project"  
   -
-    The Rockaway Blockchain Night afterparty will be held at Le Valmont Club & Lounge, a crypto-friendly bar located in the heart of Prague’s Old town from 23:30. Attendance for this event requires registration for [Rockaway Blockchain Night](https://pragueblockchainweek.cz/events/rockaway-party/).
+    "This is not an event for new users/developers to learn about ENS. As such, we’d like to limit participants to those able to contribute the most to discussions, hence the need for an application. Only those whose applications are accepted can participate. Please apply by August 31st, 2019"
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2018-11-01
+date: 2019-10-07
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate:
+endDate: 2019-10-07
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '23:30'
+time: '10:00'
 # Time when the event ends. Can be left empty.
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets:
+tickets: https://medium.com/the-ethereum-name-service/ens-workshop-applications-are-now-open-f46db6c63384
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
-# _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+# _Don't_ write the currency symbol (€ symbol will be used).
+price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Le Valmont Club & Lounge
+venue: Near the Devcon5 conference site in Osaka, Japan
 
 # The address to link to a Google map. Please test the address on Google Maps.
-# Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Uhelný trh 414/9, 110 00 Staré Město
+# Example: 5. května 1640/65, 140 21 Praha 4
+address: The Exact location will be shared with attendees closer to the event
 
 # The category of the event. Valid options:
 # - conference
 # - event
 # - hackathon
-# - panel
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: party
+category: workshop
 
 
 #################
