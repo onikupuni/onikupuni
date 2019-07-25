@@ -36,6 +36,6 @@ The easiest way to get in touch with us is through [Telegram channel](https://t.
 
 ## Special thanks
 
-This site is the fork of the last year's [Prague Blockchain Week](https://pragueblockchainweek.cz) event calendar. Special thanks to [Josef Jelacic](https://twitter.com/josefjelacic) for allowing us to reuse [his codebase](https://github.com/josefJ/PragueBlockchainWeek).
+This site is the fork of the last year's [Prague Blockchain Week](https://pragueblockchainweek.cz) event calendar. Special thanks to [Josef Jelacic](https://twitter.com/josefjelacic) for allowing us to reuse [his codebase](https://github.com/josefJ/PragueBlockchainWeek) and [Carlos E. Salazar](https://twitter.com/cesalazar) of [Berlin Blockchain Week](https://github.com/cesalazar/berlinblockchainweek) which Josef forked from.
 
 We also would like to thank [DevCon5 team](https://devcon.org) for selecting Osaka for DevCon5. We are thrilled to welcome you and all the guests from around the world!
