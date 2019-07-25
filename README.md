@@ -29,6 +29,10 @@ footer:
   -
     url: /about/
     text: About
+  -
+    url: https://github.com/wearekickback/osaka
+    text: Code
+
 #  -
 #    url: /legal/terms-and-conditions/
 #    text: Terms and conditions

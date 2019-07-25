@@ -20,10 +20,13 @@ module.exports = {
         link: '/calendar/'
       },
       {
+        text: 'Join Telegram',
+        link: 'https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA'
+      },
+      {
         text: 'Submit an Event',
         link: 'https://forms.gle/WzTbzNfPt19PP6768'
       }
-
     ],
     logo: 'logo.png',
     search: false,
