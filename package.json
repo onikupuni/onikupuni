@@ -13,7 +13,7 @@
     "dev": "vuepress dev",
     "build": "vuepress build",
     "deploy:branch": "/bin/sh -c 'if [ \"$TRAVIS_BRANCH\" = \"master\" ]; then yarn deploy:live; elif [ \"$TRAVIS_BRANCH\" = \"dev\" ]; then yarn deploy:dev; fi'",
-    "deploy:live": "yarn build && surge ./.vuepress/dist osakakickbackcalendar.surge.sh",
+    "deploy:live": "yarn build && surge ./.vuepress/dist osaka.kickback.events",
     "deploy:pr": "yarn build && ./deploy.sh",
     "deploy": "/bin/sh -c 'if [ \"$TRAVIS_PULL_REQUEST\" = \"false\" ]; then yarn deploy:branch; else yarn deploy:pr; fi'"
   },
