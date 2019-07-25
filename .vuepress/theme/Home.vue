@@ -73,11 +73,11 @@ export default {
 
 .home
   // padding $navbarHeight 2rem 0
-  // max-width 960px
+  // max-width 560px
   // margin 0px auto
   &-wrap
     padding $navbarHeight 2rem 0
-    max-width 960px
+    max-width 560px
     margin 0px auto
   &_main
     background url('~/main-bg.jpg')
