@@ -1,6 +1,6 @@
-# Osaka Blockchain  week - Live Website
+# Osaka Blockchain Week - Live Website
 
-This branch is the live website of the Osaka Blockchain  week, which is
+This branch is the live website of the Osaka Blockchain Week, which is
 reachable at [EVENT_URL](https://EVENT_URL). *Do not*
 try to edit the content on this branch, or you're going to have a bad time.
 
