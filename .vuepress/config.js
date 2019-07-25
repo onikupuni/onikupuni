@@ -3,7 +3,7 @@ module.exports = {
   // base: '/PragueBlockchainWeek/',
   // Leave the base as '/' if serving the content from a custom domain
   base: '/',
-  title: 'Osaka Blockchain  week',
+  title: 'Osaka Blockchain Week',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['link', { rel: 'icon', href: '/logo-black.png' }],
@@ -20,10 +20,13 @@ module.exports = {
         link: '/calendar/'
       },
       {
+        text: 'Join Telegram',
+        link: 'https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA'
+      },
+      {
         text: 'Submit an Event',
         link: 'https://forms.gle/WzTbzNfPt19PP6768'
       }
-
     ],
     logo: 'logo.png',
     search: false,

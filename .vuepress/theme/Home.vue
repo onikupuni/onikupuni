@@ -16,7 +16,7 @@
     </div>
     <div class="home_about">
       <div class="home-wrap">
-        <h2 class="home_about-title"><b>About</b> Osaka Blockchain  week</h2>
+        <h2 class="home_about-title"><b>About</b> Osaka Blockchain Week</h2>
         <Content custom/>
       </div>
     </div>
@@ -24,7 +24,7 @@
       <div class="home-wrap">
         <div class="features" v-if="data.features && data.features.length">
           <div class="title">
-            <h2><b>Venues</b> of Osaka Blockchain  week </h2>
+            <h2><b>Venues</b> of Osaka Blockchain Week </h2>
           </div>
           <div class="feature" v-for="feature in data.features">
             <h2>{{ feature.title }}</h2>
@@ -73,11 +73,11 @@ export default {
 
 .home
   // padding $navbarHeight 2rem 0
-  // max-width 960px
+  // max-width 560px
   // margin 0px auto
   &-wrap
     padding $navbarHeight 2rem 0
-    max-width 960px
+    max-width 560px
     margin 0px auto
   &_main
     background url('~/main-bg.jpg')
