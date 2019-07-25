@@ -6,11 +6,8 @@ is the backbone of the ecosystem. We invite projects, individuals and anyone
 interested in fruitful and educational discussions to join us.
 
 This repository contains the code for the website, which can be reached at
-[https://EVENT_URL](https://EVENT_URL).
+[https://osaka.kickback.events](https://osaka.kickback.events).
 
 ## Contributing
 
-Please read the
-[Wiki](GITHUB_URL/wiki/Contributing)
-for instructions on how to add an event. Same process applies to modify the
-theme, functionality, or any other part of the website.
+Please check [github repo](https://github.com/wearekickback/osaka/wiki/Contributing)

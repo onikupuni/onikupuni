@@ -4,13 +4,13 @@ title: Privacy Policy
 
 # Privacy Policy
 
-The EVENT_URL website provides information about Osaka Blockchain Week
+The osaka.kickback.events website provides information about Osaka Blockchain Week
 Week, a series of independent events organized by individuals, in order to
 promote blockchain technology.
 
 This page is used to inform website visitors regarding our policies with the
 collection, use, and disclosure of Personal Information if anyone decided to
-use our Service, the EVENT_URL website.
+use our Service, the osaka.kickback.events website.
 
 ## Information Collection and Use
 
@@ -18,7 +18,7 @@ We don’t store your data, period.
 
 ## Cookies
 
-EVENT_URL does not use cookies to collect information.
+osaka.kickback.events does not use cookies to collect information.
 
 ## Links to Other Sites
 

@@ -6,9 +6,9 @@
   "author": "Makoto Inoue (forked from the version by Josef Jelacic",
   "license": "MIT",
   "bugs": {
-    "url": "GITHUB_URL/issues"
+    "url": "https://github.com/wearekickback/osaka/issues"
   },
-  "homepage": "https://EVENT_URL",
+  "homepage": "https://osaka.kickback.events",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
