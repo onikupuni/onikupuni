@@ -9,7 +9,7 @@
   <div ref="wrapper">
     <HeroInternalPage
       title="Calendar"
-      link="https://goo.gl/forms/zYvjmpEsfeM1KpRt2"
+      link="https://forms.gle/WzTbzNfPt19PP6768"
       linkText="Submit an Event"
     />
 
