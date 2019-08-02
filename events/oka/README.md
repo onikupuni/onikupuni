@@ -54,7 +54,7 @@ endDate: 2019-10-09
 # Example: '18:00'
 time: '16:00'
 # Time when the event ends. Can be left empty.
-endTime: '19:00'
+endTime: '20:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://medium.com/the-ethereum-name-service/ens-workshop-applications-are-now-open-f46db6c63384
