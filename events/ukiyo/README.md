@@ -64,7 +64,7 @@ tickets: https://www.ukiyoconference.com
 price: '$350'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Kinki university
+venue: Kindai university
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
